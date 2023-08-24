@@ -4,3 +4,6 @@ Hello, World!
 
 2023-08-24 Nicole Sharp
 https://www.nicolesharp.net/
+
+Text is available under the Creative Commons Attribution-ShareAlike (CC BY-SA) 4.0 International License.
+https://www.creativecommons.org/licenses/by-sa/4.0/
