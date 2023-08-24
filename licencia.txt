@@ -3,9 +3,9 @@ LICENCIA INTERNACIONAL PÚBLICA DE ATRIBUCIÓN/RECONOCIMIENTO-COMPARTIRIGUAL ("B
 https://www.creativecommons.org/licenses/by-sa/4.0/deed.es
 https://www.creativecommons.org/licenses/by-sa/4.0/legalcode.es
 
----
-
 Al ejercer los Derechos Licenciados (definidos a continuación), Usted acepta y acuerda estar obligado por los términos y condiciones de esta "Licencia Internacional Pública de Atribución/Reconocimiento-CompartirIgual 4.0 de 'Creative Commons'" ("Licencia Pública").  En la medida en que esta Licencia Pública pueda ser interpretada como un contrato, a Usted se le otorgan los Derechos Licenciados en consideración a su aceptación de estos términos y condiciones, y el Licenciante le concede a Usted tales derechos en consideración a los beneficios que el Licenciante recibe por poner a disposición el Material Licenciado bajo estos términos y condiciones.
+
+---
 
 Sección 1 — Definiciones.
 
@@ -13,7 +13,7 @@ a.  Material Adaptado es aquel material protegido por Derechos de Autor y Derech
 b.  Licencia de adaptador es aquella licencia que Usted aplica a Sus Derechos de Autor y Derechos Similares en Sus contribuciones consideradas como Material Adaptado de acuerdo con los términos y condiciones de esta Licencia Pública.
 c.  Una Licencia Compatible con "BY-SA" es aquella que aparece en la lista disponible en "creativecommons.org/compatiblelicenses", aprobada por "Creative Commons", como una licencia esencialmente equivalente a esta Licencia Pública.
 d.  Derechos de Autor y Derechos Similares son todos aquellos derechos estrechamente vinculados a los derechos de autor, incluidos, de manera enunciativa y no taxativa, los derechos sobre las interpretaciones, las emisiones, las grabaciones sonoras y los Derechos "Sui Generis" sobre Bases de Datos, sin importar cómo estos derechos se encuentren enunciados o categorizados.  A los efectos de esta Licencia Pública, los derechos especificados en las secciones 2(b)(1)-(2) no se consideran Derechos de Autor y Derechos Similares.
-e.  Medidas Tecnológicas Efectivas son aquellas medidas que, en ausencia de la debida autorización, no pueden ser eludidas en virtud de las leyes que cumplen las obligaciones del artículo 11 del Tratado de la OMPI sobre Derecho de Autor adoptado el 20 de diciembre de 1996, y/o acuerdos internacionales similares.
+e.  Medidas Tecnológicas Efectivas son aquellas medidas que, en ausencia de la debida autorización, no pueden ser eludidas en virtud de las leyes que cumplen las obligaciones del artículo 11 del Tratado de la OMPI (Organización Mundial de la Propiedad Intelectual) sobre Derecho de Autor adoptado el 20 de diciembre de 1996, y/o acuerdos internacionales similares.
 f.  Excepciones y Limitaciones son el uso justo ("fair use"), el trato justo ("fair dealing") y/o cualquier otra excepción o limitación a los Derechos de Autor y Derechos Similares que se apliquen al uso el Material Licenciado.
 g.  Elementos de la Licencia son los atributos que figuran en el nombre de la Licencia Pública de Creative Commons.  Los Elementos de la Licencia de esta Licencia Pública son Atribución/Reconocimiento y CompartirIgual.
 h.  Material Licenciado es obra artística o literaria, base de datos o cualquier otro material al cual el Licenciante aplicó esta Licencia Pública.
@@ -84,7 +84,7 @@ a.  Esta Licencia Pública tiene una vigencia de aplicación igual al plazo de p
 b.  En aquellos casos en que Su derecho a utilizar el Material Licenciado se haya terminado conforme a la sección 6(a), este será restablecido:
 	1.  automáticamente a partir de la fecha en que la violación sea subsanada, siempre y cuando esta se subsane dentro de los 30 días siguientes a partir de Su descubrimiento de la violación; o
 	2.  tras el restablecimiento expreso por parte del Licenciante.
-Para evitar dudas, esta sección 6(b) no afecta ningún derecho que pueda tener el Licenciante a buscar resarcimiento por Sus violaciones de esta Licencia Pública.
+	Para evitar dudas, esta sección 6(b) no afecta ningún derecho que pueda tener el Licenciante a buscar resarcimiento por Sus violaciones de esta Licencia Pública.
 c.  Para evitar dudas, el Licenciante también puede ofrecer el Material Licenciado bajo términos o condiciones diferentes, o dejar de distribuir el Material Licenciado en cualquier momento; sin embargo, hacer esto no pondrá fin a esta Licencia Pública.
 d.  Las secciones 1, 5, 6, 7, y 8 permanecerán vigentes a la terminación de esta Licencia Pública.
 
