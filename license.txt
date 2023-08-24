@@ -53,7 +53,7 @@ a.  Attribution.
 			ii.  a copyright notice;
 			iii.  a notice that refers to this Public License;
 			iv.  a notice that refers to the disclaimer of warranties;
-			v.  a URI (Uniform Resource Identifier) or hyperlink to the Licensed Material to the extent reasonably practicable;
+			v.  a URI (uniform resource identifier) or hyperlink to the Licensed Material to the extent reasonably practicable;
 		B.  indicate if You modified the Licensed Material and retain an indication of any previous modifications; and
 		C.  indicate the Licensed Material is licensed under this Public License, and include the text of, or the URI or hyperlink to, this Public License.
 	2.  You may satisfy the conditions in Section 3(a)(1) in any reasonable manner based on the medium, means, and context in which You Share the Licensed Material.  For example, it may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource that includes the required information.
@@ -113,6 +113,6 @@ Nicole Sharp may be contacted at "nicolesharp.net".
 https://www.nicolesharp.net/
 https://www.creativecommons.org/
 
-Except where otherwise noted, content on Nicole Sharp's Website is licensed under the Creative Commons Attribution-ShareAlike (CC BY-SA) 4.0 International License.
+Except where otherwise noted, content on Nicole Sharp's Website is licensed under the Creative Commons Attribution-ShareAlike (CC BY-SA) 4.0 International Public License.
 
-[keywords: BY-SA, ©, CC, copyleft, copyright, license]
+[keywords: BY-SA, ©, CC, copying, copyleft, copyright, license]
