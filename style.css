@@ -1,0 +1,5 @@
+body { color: fuchsia; background-color: black; }
+a:link { color: lime; }
+a:visited { color: green; }
+a:hover { color: yellow }
+a:active { color: red; }

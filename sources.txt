@@ -101,6 +101,8 @@ https://en.wikibooks.org/wiki/HTML
 BOOKS / CASCADING STYLESHEETS (CSS)
 
 https://en.wikipedia.org/wiki/CSS
+https://en.wikipedia.org/wiki/webcolors
+https://en.wikipedia.org/wiki/colors_by_shade
 
 ---
 
