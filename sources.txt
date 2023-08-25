@@ -86,6 +86,7 @@ https://en.wikipedia.org/wiki/HTML_5
 https://en.wikipedia.org/wiki/HTML_element
 https://en.wikipedia.org/wiki/HTML_attribute
 https://en.wikipedia.org/wiki/META_element
+https://en.wikipedia.org/wiki/META_CHARSET
 https://en.wikipedia.org/wiki/META_REFRESH
 https://en.wikipedia.org/wiki/FRAME_element
 https://en.wikipedia.org/wiki/ARTICLE_element
@@ -95,14 +96,19 @@ https://en.wikipedia.org/wiki/RUBY_element
 https://en.wikipedia.org/wiki/CANVAS_element
 https://en.wikipedia.org/wiki/FORM_element
 https://en.wikipedia.org/wiki/CACHE-MANIFEST
+https://en.wikipedia.org/wiki/character_entities
+https://en.wikipedia.org/wiki/numeric_character_references
 
 https://en.wikibooks.org/wiki/HTML
+https://en.wikibooks.org/wiki/Unicode
 
 BOOKS / CASCADING STYLESHEETS (CSS)
 
 https://en.wikipedia.org/wiki/CSS
 https://en.wikipedia.org/wiki/webcolors
 https://en.wikipedia.org/wiki/colors_by_shade
+
+https://en.wikibooks.org/wiki/CSS
 
 ---
 

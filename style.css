@@ -1,5 +1,7 @@
-body { color: fuchsia; background-color: black; }
-a:link { color: lime; }
-a:visited { color: green; }
-a:hover { color: yellow }
-a:active { color: red; }
+a:link { color: fuchsia; }
+a:visited { color: purple; }
+a:hover { color: red; }
+a:active { color: green; }
+a.u { text-decoration: none; }
+address { font-style: normal; }
+cite { text-decoration: underline; font-style: normal; }
