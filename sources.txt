@@ -65,7 +65,7 @@ Creative Commons Attribution-ShareAlike 4.0 International Public License:
 https://www.creativecommons.org/licenses/by-sa/4.0/
 https://www.creativecommons.org/licenses/by-sa/4.0/legalcode
 
-Licencia internacional pública de atribución/reconocomiento-compartirigual 4.0 de Comunes Creativos [ES]:
+"Licencia internacional pública de atribución/reconocomiento-compartirigual 4.0 de Comunes Creativos" [ES]:
 https://www.creativecommons.org/licenses/by-sa/4.0/deed.es
 https://www.creativecommons.org/licenses/by-sa/4.0/legalcode.es
 
