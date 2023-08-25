@@ -69,6 +69,39 @@ https://www.creativecommons.org/licenses/by-sa/4.0/legalcode
 https://www.creativecommons.org/licenses/by-sa/4.0/deed.es
 https://www.creativecommons.org/licenses/by-sa/4.0/legalcode.es
 
+BOOKS
+
+https://en.wikipedia.org/
+https://en.wikibooks.org/
+
+BOOKS / WEBDEVELOPMENT
+
+https://en.wikipedia.org/wiki/webdevelopment
+https://en.wikipedia.org/wiki/front-end_webdevelopment
+
+BOOKS / HYPERTEXT MARKUP LANGUAGE (HTML)
+
+https://en.wikipedia.org/wiki/HTML
+https://en.wikipedia.org/wiki/HTML_5
+https://en.wikipedia.org/wiki/HTML_element
+https://en.wikipedia.org/wiki/HTML_attribute
+https://en.wikipedia.org/wiki/META_element
+https://en.wikipedia.org/wiki/META_REFRESH
+https://en.wikipedia.org/wiki/FRAME_element
+https://en.wikipedia.org/wiki/ARTICLE_element
+https://en.wikipedia.org/wiki/DIV_element
+https://en.wikipedia.org/wiki/BLOCKQUOTE_element
+https://en.wikipedia.org/wiki/RUBY_element
+https://en.wikipedia.org/wiki/CANVAS_element
+https://en.wikipedia.org/wiki/FORM_element
+https://en.wikipedia.org/wiki/CACHE-MANIFEST
+
+https://en.wikibooks.org/wiki/HTML
+
+BOOKS / CASCADING STYLESHEETS (CSS)
+
+https://en.wikipedia.org/wiki/CSS
+
 ---
 
 2023-08-25 Nicole Sharp
