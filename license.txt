@@ -14,7 +14,7 @@ You are free to:
 The licensor cannot revoke these freedoms as long as you follow the license terms.
 
 Under the following terms:
-• Attribution — you must give appropriate credit, provide a link to the license, and indicate if changes were made.  You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.  You must provide the name of the creator and attribution parties, a copyright notice, a license notice, a disclaimer notice, and a link to the material.  You must indicate if you modified the material and retain an indication of previous modifications.
+• Attribution — you must give appropriate credit, provide a link to the license, and indicate if changes were made.  You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.  If supplied, you must provide the name of the creator and attribution parties, a copyright notice, a license notice, a disclaimer notice, and a link to the material.  In 4.0, you must indicate if you modified the material and retain an indication of previous modifications.
 • ShareAlike — if you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 • No additional restrictions — you may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
