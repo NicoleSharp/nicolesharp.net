@@ -1,0 +1,79 @@
+Sources for Nicole Sharp's Website.
+
+https://www.nicolesharp.net/
+
+SOFTWARE / OPERATING SYSTEMS
+
+Microsoft Windows:
+https://www.windows.com/
+
+SOFTWARE / EDITORS
+
+Notepad Plus Plus:
+https://www.notepad-plus-plus.org/
+
+Microsoft Office:
+https://www.office.com/
+
+LibreOffice:
+https://www.libreoffice.org/
+
+SOFTWARE / BROWSERS
+
+Microsoft Edge Chromium:
+https://www.microsoft.com/edge/
+
+Google Chrome Chromium:
+https://www.chrome.com/
+
+Opera Chromium:
+https://www.opera.com/
+
+Mozilla Firefox:
+https://www.firefox.com/
+
+SOFTWARE / VIEWERS
+
+Sumatra:
+https://www.sumatrapdfreader.org/
+
+IrfanView:
+https://www.irfanview.com/
+
+SEARCH
+
+Microsoft Bing Search:
+https://www.bing.com/
+
+Google Search:
+https://www.google.com/
+
+TRANSLATION
+
+Microsoft Bing Translate:
+https://translate.bing.com/
+
+Google Translate:
+https://translate.google.com/
+
+LICENSE
+
+https://www.creativecommons.org/
+https://www.creativecommons.org/choose/
+
+Creative Commons Attribution-ShareAlike 4.0 International Public License:
+https://www.creativecommons.org/licenses/by-sa/4.0/
+https://www.creativecommons.org/licenses/by-sa/4.0/legalcode
+
+Licencia internacional pública de atribución/reconocomiento-compartirigual 4.0 de Comunes Creativos [ES]:
+https://www.creativecommons.org/licenses/by-sa/4.0/deed.es
+https://www.creativecommons.org/licenses/by-sa/4.0/legalcode.es
+
+---
+
+2023-08-25 Nicole Sharp
+
+Except where otherwise noted, content on Nicole Sharp's Website is licensed under the Creative Commons Attribution-ShareAlike (CC BY-SA) 4.0 International Public License.
+https://www.creativecommons.org/licenses/by-sa/4.0/
+
+[keywords: citations, development, nicolesharp.net, NikkiSite, references, sources, web, webdevelopment, website]
