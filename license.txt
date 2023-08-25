@@ -3,22 +3,24 @@ CREATIVE COMMONS ATTRIBUTION-SHAREALIKE (CC BY-SA) 4.0 INTERNATIONAL PUBLIC LICE
 https://www.creativecommons.org/licenses/by-sa/4.0/
 https://www.creativecommons.org/licenses/by-sa/4.0/legalcode
 
-This license is acceptable for Free Cultural Works.
+This license is acceptable for Free Cultural Works:
+
+https://www.freedomdefined.org/
 
 You are free to:
-Share — copy and redistribute the material in any medium or format.
-Adapt — remix, transform, and build upon the material for any purpose, even commercially.
+• Share — copy and redistribute the material in any medium or format.
+• Adapt — remix, transform, and build upon the material for any purpose, even commercially.
 
 The licensor cannot revoke these freedoms as long as you follow the license terms.
 
 Under the following terms:
-Attribution — you must give appropriate credit, provide a link to the license, and indicate if changes were made.  You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-ShareAlike — if you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
-No additional restrictions — you may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+• Attribution — you must give appropriate credit, provide a link to the license, and indicate if changes were made.  You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.  You must provide the name of the creator and attribution parties, a copyright notice, a license notice, a disclaimer notice, and a link to the material.  You must indicate if you modified the material and retain an indication of previous modifications.
+• ShareAlike — if you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+• No additional restrictions — you may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
 Notices:
-You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.
-No warranties are given.  The license may not give you all of the permissions necessary for your intended use.  For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
+• You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.  The rights of users under exceptions and limitations, such as fair use and fair dealing, are not affected by the CC licenses.
+• No warranties are given.  The license may not give you all of the permissions necessary for your intended use.  For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
 
 ---
 
@@ -38,7 +40,7 @@ i.  Licensed Rights means the rights granted to You subject to the terms and con
 j.  Licensor means the individual(s) or entity(ies) granting rights under this Public License.
 k.  Share means to provide material to the public by any means or process that requires permission under the Licensed Rights, such as reproduction, public display, public performance, distribution, dissemination, communication, or importation, and to make material available to the public including in ways that members of the public may access the material from a place and at a time individually chosen by them.
 l.  Sui Generis Database Rights means rights other than copyright resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other essentially equivalent rights anywhere in the world.
-m.  You means the individual or entity exercising the Licensed Rights under this Public License. Your has a corresponding meaning.
+m.  You means the individual or entity exercising the Licensed Rights under this Public License.  Your has a corresponding meaning.
 
 Section 2 — Scope.
 
@@ -124,7 +126,7 @@ Creative Commons may be contacted at "creativecommons.org".
 
 Nicole Sharp may be contacted at "nicolesharp.net".
 
-2023-08-24 Nicole Sharp and Creative Commons
+2023-08-25 Nicole Sharp and Creative Commons
 https://www.nicolesharp.net/
 https://www.creativecommons.org/
 
