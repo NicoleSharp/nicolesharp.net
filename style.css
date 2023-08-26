@@ -1,3 +1,5 @@
+@charset "utf-8";
+
 a:link { color: fuchsia; }
 a:visited { color: purple; }
 a:hover { color: red; }
@@ -5,3 +7,8 @@ a:active { color: green; }
 a.u { text-decoration: none; }
 address { font-style: normal; }
 cite { text-decoration: underline; font-style: normal; }
+
+/*
+2023-08-26 Nicole Sharp
+https://www.nicolesharp.net/
+*/
