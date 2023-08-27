@@ -91,7 +91,7 @@ https://www.nicolesharp.net/
 https://www.apache.org/
 
 Except where otherwise noted, content on Nicole Sharp's Website is licensed under the Creative Commons Attribution-ShareAlike (CC BY-SA) 4.0 International Public License.
-https://www.nicolesharp.net/licenses/CC_BY-SA.htm
+https://www.nicolesharp.net/licenses/CC-BY-SA.htm
 https://www.creativecommons.org/licenses/by-sa/4.0/
 
 [keywords: Apache, BY-SA, ©, CC, copying, copyleft, copyright, license, licensing, permission]
