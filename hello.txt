@@ -6,7 +6,7 @@ Hello, World!
 https://www.nicolesharp.net/
 
 Except where otherwise noted, content on Nicole Sharp's Website is licensed under the Creative Commons Attribution-ShareAlike (CC BY-SA) 4.0 International Public License.
-https://www.nicolesharp.net/licenses/CC_BY-SA.htm
+https://www.nicolesharp.net/licenses/CC-BY-SA.htm
 https://www.creativecommons.org/licenses/by-sa/4.0/
 
 [keywords: greeting, hello, helloworld, test, testing, testpage]
