@@ -56,6 +56,23 @@ https://translate.bing.com/
 Google Translate:
 https://translate.google.com/
 
+EMAIL
+
+Microsoft Outlook:
+https://www.outlook.com/
+
+Google Mail:
+https://www.gmail.com/
+
+Yahoo! Mail:
+https://mail.yahoo.com/
+
+AOL Mail:
+https://mail.aol.com/
+
+DreamHost Webmail:
+https://webmail.dreamhost.com/
+
 FONTS
 
 Google Fonts:
@@ -136,11 +153,19 @@ https://en.wikipedia.org/wiki/colors_by_shade
 
 https://en.wikibooks.org/wiki/CSS
 
+BOOKS / JAVASCRIPT (JS)
+
+https://en.wikipedia.org/wiki/JavaScript
+https://en.wikipedia.org/wiki/JavaScript_syntax
+
+https://en.wikibooks.org/wiki/JavaScript
+
 ---
 
 2023-08-27 Nicole Sharp
 
 Except where otherwise noted, content on Nicole Sharp's Website is licensed under the Creative Commons Attribution-ShareAlike (CC BY-SA) 4.0 International Public License.
+https://www.nicolesharp.net/licenses/CC_BY-SA.htm
 https://www.creativecommons.org/licenses/by-sa/4.0/
 
 [keywords: citations, development, nicolesharp.net, NikkiSite, references, sources, web, webdevelopment, website]
