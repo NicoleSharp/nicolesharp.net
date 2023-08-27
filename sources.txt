@@ -18,6 +18,9 @@ https://www.office.com/
 LibreOffice:
 https://www.libreoffice.org/
 
+GNU Image Manipulation Program (GIMP):
+https://www.gimp.org/
+
 SOFTWARE / BROWSERS
 
 Microsoft Edge Chromium:
@@ -131,6 +134,8 @@ https://en.wikipedia.org/wiki/HTML_attribute
 https://en.wikipedia.org/wiki/META_element
 https://en.wikipedia.org/wiki/META_CHARSET
 https://en.wikipedia.org/wiki/META_REFRESH
+https://en.wikipedia.org/wiki/favicon
+https://en.wikipedia.org/wiki/.ico
 https://en.wikipedia.org/wiki/FRAME_element
 https://en.wikipedia.org/wiki/ARTICLE_element
 https://en.wikipedia.org/wiki/DIV_element
@@ -165,7 +170,7 @@ https://en.wikibooks.org/wiki/JavaScript
 2023-08-27 Nicole Sharp
 
 Except where otherwise noted, content on Nicole Sharp's Website is licensed under the Creative Commons Attribution-ShareAlike (CC BY-SA) 4.0 International Public License.
-https://www.nicolesharp.net/licenses/CC_BY-SA.htm
+https://www.nicolesharp.net/licenses/CC-BY-SA.htm
 https://www.creativecommons.org/licenses/by-sa/4.0/
 
 [keywords: citations, development, nicolesharp.net, NikkiSite, references, sources, web, webdevelopment, website]
