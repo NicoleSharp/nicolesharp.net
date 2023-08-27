@@ -2,6 +2,9 @@ APACHE LICENSE VERSION 2.0, JANUARY 2004
 
 https://www.apache.org/licenses/LICENSE-2.0
 
+https://www.nicolesharp.net/licenses/Apache.txt
+https://www.nicolesharp.net/licenses/Apache.pdf
+
 This license is acceptable for Free Cultural Works:
 
 https://www.freedomdefined.org/
@@ -88,6 +91,7 @@ https://www.nicolesharp.net/
 https://www.apache.org/
 
 Except where otherwise noted, content on Nicole Sharp's Website is licensed under the Creative Commons Attribution-ShareAlike (CC BY-SA) 4.0 International Public License.
+https://www.nicolesharp.net/licenses/CC_BY-SA.htm
 https://www.creativecommons.org/licenses/by-sa/4.0/
 
 [keywords: Apache, BY-SA, ©, CC, copying, copyleft, copyright, license, licensing, permission]

@@ -3,6 +3,8 @@ CREATIVE COMMONS ZERO (CC0) 1.0 UNIVERSAL PUBLIC DOMAIN LICENSE
 https://www.creativecommons.org/publicdomain/zero/1.0/
 https://www.creativecommons.org/publicdomain/zero/1.0/legalcode
 
+https://www.nicolesharp.net/licenses/CC0.txt
+
 This license is acceptable for Free Cultural Works:
 
 https://www.freedomdefined.org/
@@ -61,6 +63,7 @@ https://www.nicolesharp.net/
 https://www.creativecommons.org/
 
 Except where otherwise noted, content on Nicole Sharp's Website is licensed under the Creative Commons Attribution-ShareAlike (CC BY-SA) 4.0 International Public License.
+https://www.nicolesharp.net/licenses/CC_BY-SA.htm
 https://www.creativecommons.org/licenses/by-sa/4.0/
 
 [keywords: BY-SA, ©, CC, CC0, copying, copyleft, copyright, license, licensing, permission]
