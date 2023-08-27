@@ -71,7 +71,7 @@ font-family: "Roboto";
 font-style: italic;
 font-weight: bold;
 font-display: swap;
-src: url("Roboto-BoldItalic.ttf");
+src: url("fonts/Roboto-BoldItalic.ttf");
 }
 
 /*
@@ -159,7 +159,7 @@ font-family: "Roboto Mono";
 font-style: italic;
 font-weight: bold;
 font-display: swap;
-src: url("RobotoMono-BoldItalic.ttf");
+src: url("fonts/RobotoMono-BoldItalic.ttf");
 }
 
 /*
