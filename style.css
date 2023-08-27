@@ -1,5 +1,10 @@
 @charset "utf-8";
 
+/* @import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,400;1,700&display=swap"); Roboto */
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;700&display=swap"); /* Roboto Slab */
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap"); /* Roboto Mono */
+
+body { font-family: "Roboto Slab", serif; }
 a:link { color: fuchsia; }
 a:visited { color: purple; }
 a:hover { color: red; }
@@ -7,6 +12,7 @@ a:active { color: green; }
 a.u { text-decoration: none; }
 address { font-style: normal; }
 cite { text-decoration: underline; font-style: normal; }
+code, kbd { font-family: "Roboto Mono", monospace; }
 
 /*
 
