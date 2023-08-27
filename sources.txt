@@ -56,8 +56,23 @@ https://translate.bing.com/
 Google Translate:
 https://translate.google.com/
 
-LICENSE
+FONTS
 
+Google Fonts:
+https://fonts.google.com/
+
+Google Roboto:
+https://fonts.google.com/specimen/Roboto/
+
+Google Roboto Slab:
+https://fonts.google.com/specimen/Roboto+Slab/
+
+Google Roboto Mono:
+https://fonts.google.com/specimen/Roboto+Mono/
+
+LICENSES
+
+Creative Commons:
 https://www.creativecommons.org/
 https://www.creativecommons.org/choose/
 
@@ -68,6 +83,17 @@ https://www.creativecommons.org/licenses/by-sa/4.0/legalcode
 "Licencia internacional pública de atribución/reconocomiento-compartirigual 4.0 de Comunes Creativos" [ES]:
 https://www.creativecommons.org/licenses/by-sa/4.0/deed.es
 https://www.creativecommons.org/licenses/by-sa/4.0/legalcode.es
+
+Creative Commons Zero 1.0 Universal Public Domain License
+https://www.creativecommons.org/publicdomain/zero/1.0/
+https://www.creativecommons.org/publicdomain/zero/1.0/legalcode
+
+"Licencia del dominio público universal de Comunes Creativos cero 1.0" [ES]
+https://www.creativecommons.org/publicdomain/zero/1.0/deed.es
+https://www.creativecommons.org/publicdomain/zero/1.0/legalcode.es
+
+Apache License Version 2.0
+https://www.apache.org/licenses/LICENSE-2.0
 
 BOOKS
 
@@ -112,7 +138,7 @@ https://en.wikibooks.org/wiki/CSS
 
 ---
 
-2023-08-25 Nicole Sharp
+2023-08-27 Nicole Sharp
 
 Except where otherwise noted, content on Nicole Sharp's Website is licensed under the Creative Commons Attribution-ShareAlike (CC BY-SA) 4.0 International Public License.
 https://www.creativecommons.org/licenses/by-sa/4.0/
